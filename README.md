@@ -1,1 +1,1 @@
-# noxada.com => Redirect to noxada.at
+# noxada.com => redirect to noxada.at
